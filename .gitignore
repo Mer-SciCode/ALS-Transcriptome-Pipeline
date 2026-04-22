@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#long files
+GSE112680_HT12_V4_preQC_nonnormalized.txt
+GSE112680_series_matrix.txt
+
+#outputs
+expr_matrix.csv
+metadata_for_pipeline.csv
+ALS_analysis_Top100_DEGs.csv
+ALS_analysis_ALL_genes.csv
+
+
