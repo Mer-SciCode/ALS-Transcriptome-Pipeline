@@ -1,0 +1,4 @@
+"","category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"hsa03010","Genetic Information Processing","Translation","hsa03010","Ribosome","6/6","222/9376",0.027027027027027,42.2342342342342,15.7333221337898,1.64860879414361e-10,4.94582638243083e-10,NA,"100008589/6210/100008588/6155/6133/6189",6
+"hsa05171","Human Diseases","Infectious disease: viral","hsa05171","Coronavirus disease - COVID-19","4/6","238/9376",0.0168067226890756,26.2633053221288,9.98951815313,5.83560070297601e-06,8.75340105446401e-06,NA,"6210/6155/6133/6189",4
+"hsa03008","Genetic Information Processing","Translation","hsa03008","Ribosome biogenesis in eukaryotes","2/6","183/9376",0.0109289617486339,17.0783242258652,5.55813594531991,0.00539722704996072,0.00539722704996072,NA,"100008589/100008588",2
